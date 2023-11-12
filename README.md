@@ -8,7 +8,7 @@
 
 
 
-  - To generate the *spectrak* emmbedding and compute the inter-similarity and the the intra-similarity :
+  - To generate the *spectral* emmbedding and compute the inter-similarity and the the intra-similarity :
     ```
     cd ./Similarity/FastGAE_embedding
     python generate_embedding_GAE.py --config "MG" --dataset "R8"
